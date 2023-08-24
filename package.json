@@ -1,0 +1,26 @@
+{
+  "name": "api-params-buzzer",
+  "version": "1.0.0",
+  "description": "a params inspector for api request",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/handsomeBingo/api-params-buzzer.git"
+  },
+  "keywords": [
+    "request",
+    "param-check",
+    "param",
+    "inspector",
+    "fetch"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/handsomeBingo/api-params-buzzer/issues"
+  },
+  "homepage": "https://github.com/handsomeBingo/api-params-buzzer#readme"
+}
